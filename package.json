@@ -1,6 +1,6 @@
 {
   "name": "@sssservices/foundation",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description":
     "[READ ONLY] Subtree split of the Sssservices Foundation component (see @sssservices/framework)",
   "main": "application.js",
