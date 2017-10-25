@@ -1,8 +1,7 @@
 {
   "name": "@sssservices/foundation",
-  "version": "0.0.1",
-  "description":
-    "[READ ONLY] Subtree split of the Sssservices Foundation component (see @sssservices/framework)",
+  "version": "0.0.2",
+  "description": "[READ ONLY] Subtree split of the Sssservices Foundation component (see @sssservices/framework)",
   "main": "application.js",
   "repository": "https://github.com/sssservices/foundation",
   "author": "Wilson Lewis <wilsonlewis@gmail.com>",
